@@ -1,6 +1,6 @@
 name: Caracas
 favicon: null
-layout_spectrum: 0.8649210871662945
+layout_spectrum: 0.11982
 typography_spectrum: 0.5603198753669858
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7713694178964943
+    - '#f3f3f4'
+    - '#fcfcfc'
+    - '#e7e8e8'
+    - '#eaebeb'
+    - '#eff0f0'
+  brandStrength: 0.75
   lightness: 0.8165123758371919
   saturation: 0.6676022652536631
   rhythmicContrast: 0.8232903226744384
